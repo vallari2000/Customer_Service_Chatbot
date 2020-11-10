@@ -1,0 +1,15 @@
+{"intents": [
+        {"tag": "options",
+         "patterns": ["How you could help me?", "What help you provide?", "How you can be helpful?"],
+         "responses": ["Track my order","Find list of products","Find manufacturer nearby"],
+         "context": [""]
+        },
+    {"tag":"product_details",
+     "patterns": ["Can you provide details for headphones?", "Can you provide details for laptop?", "Can you provide details for harddisk?"],
+         "responses": ["Get price details","Get model specifications","Give me the available colours of the product"],
+         "context": [""]
+    }
+    
+    ]
+}
+    
