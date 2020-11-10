@@ -1,0 +1,18 @@
+{"intents": [
+    {"tag": "gadgets",
+         "patterns": ["what are the gadgets in stock?","which products do you have?","Which electronic gadgets are available","What can I buy"],
+         "responses": ["Equipments.jpg","equipments1.jpg","equipments2.jpg"],
+         "context": [""]
+        },
+    {"tag": "sale",
+         "patterns": ["Which items are for sale?","Is there any discount on your products?"],
+         "responses": ["sale1.png","sale2.png","sale3.jpg"],
+         "context": [""]
+        },
+    {"tag": "seasonal sale",
+         "patterns": ["Which items are for sale in Diwali?","Which items are for sale in Navratri?","Which items are for sale in Christmas?","Which items are for monsoon sale?","Which items are for summer sale?"],
+         "responses": ["sale1.png","sale2.png","sale3.jpg"],
+         "context": [""]
+        }
+    ]
+}
