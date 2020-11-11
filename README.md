@@ -6,6 +6,7 @@
   
 ## Technologies :
 -> RETRIEVAL BASED CHATBOT :
+     
     1. Natural language Processing(NLTK)
 
     2. KERAS
@@ -19,6 +20,7 @@
     Jupyter Notebook
     
  ## Features :
+ 
    -> Provides Suggestions
    
    -> Personalized
