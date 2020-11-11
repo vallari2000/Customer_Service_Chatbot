@@ -20,7 +20,11 @@
     
  ## Features :
    -> Provides Suggestions
+   
    -> Personalized
+   
    -> Asks for Feedback
+   
    -> Pre-trained
+   
    -> Visually interactive interface (images)
